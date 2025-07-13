@@ -1,2 +1,3 @@
-python-telegram-bot==13.15
-maigret
+maigret==0.4.2
+telebot
+arabic-reshaper==3.0.0
